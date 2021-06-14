@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.fbbe0acc.chunk.css",
-    "main.js": "/developer-portfolio/static/js/main.063b8a76.chunk.js",
-    "main.js.map": "/developer-portfolio/static/js/main.063b8a76.chunk.js.map",
+    "main.js": "/developer-portfolio/static/js/main.70a7d8c1.chunk.js",
+    "main.js.map": "/developer-portfolio/static/js/main.70a7d8c1.chunk.js.map",
     "runtime-main.js": "/developer-portfolio/static/js/runtime-main.f1b136ae.js",
     "runtime-main.js.map": "/developer-portfolio/static/js/runtime-main.f1b136ae.js.map",
     "static/js/2.756b1d5e.chunk.js": "/developer-portfolio/static/js/2.756b1d5e.chunk.js",
@@ -16,13 +16,13 @@
     "static/media/chore-rewards-react.e3fd8307.png": "/developer-portfolio/static/media/chore-rewards-react.e3fd8307.png",
     "static/media/developer-portfolio.55972dde.png": "/developer-portfolio/static/media/developer-portfolio.55972dde.png",
     "static/media/disney-plus-clone.e1bf5076.png": "/developer-portfolio/static/media/disney-plus-clone.e1bf5076.png",
-    "static/media/pokemon-database.fa6e3c0c.png": "/developer-portfolio/static/media/pokemon-database.fa6e3c0c.png",
-    "static/media/turn-the-page.f288d47f.png": "/developer-portfolio/static/media/turn-the-page.f288d47f.png"
+    "static/media/pokemon-database.68f4050d.png": "/developer-portfolio/static/media/pokemon-database.68f4050d.png",
+    "static/media/turn-the-page.a1b9f62f.png": "/developer-portfolio/static/media/turn-the-page.a1b9f62f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1b136ae.js",
     "static/js/2.756b1d5e.chunk.js",
     "static/css/main.fbbe0acc.chunk.css",
-    "static/js/main.063b8a76.chunk.js"
+    "static/js/main.70a7d8c1.chunk.js"
   ]
 }
