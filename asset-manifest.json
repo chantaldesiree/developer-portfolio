@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.fbbe0acc.chunk.css",
-    "main.js": "/developer-portfolio/static/js/main.2ce7371b.chunk.js",
-    "main.js.map": "/developer-portfolio/static/js/main.2ce7371b.chunk.js.map",
-    "runtime-main.js": "/developer-portfolio/static/js/runtime-main.f1b136ae.js",
-    "runtime-main.js.map": "/developer-portfolio/static/js/runtime-main.f1b136ae.js.map",
-    "static/js/2.756b1d5e.chunk.js": "/developer-portfolio/static/js/2.756b1d5e.chunk.js",
-    "static/js/2.756b1d5e.chunk.js.map": "/developer-portfolio/static/js/2.756b1d5e.chunk.js.map",
-    "static/js/3.4725001f.chunk.js": "/developer-portfolio/static/js/3.4725001f.chunk.js",
-    "static/js/3.4725001f.chunk.js.map": "/developer-portfolio/static/js/3.4725001f.chunk.js.map",
+    "main.js": "/developer-portfolio/static/js/main.a031bef1.chunk.js",
+    "main.js.map": "/developer-portfolio/static/js/main.a031bef1.chunk.js.map",
+    "runtime-main.js": "/developer-portfolio/static/js/runtime-main.29e0abad.js",
+    "runtime-main.js.map": "/developer-portfolio/static/js/runtime-main.29e0abad.js.map",
+    "static/js/2.c6bf24e5.chunk.js": "/developer-portfolio/static/js/2.c6bf24e5.chunk.js",
+    "static/js/2.c6bf24e5.chunk.js.map": "/developer-portfolio/static/js/2.c6bf24e5.chunk.js.map",
+    "static/js/3.2b82da6f.chunk.js": "/developer-portfolio/static/js/3.2b82da6f.chunk.js",
+    "static/js/3.2b82da6f.chunk.js.map": "/developer-portfolio/static/js/3.2b82da6f.chunk.js.map",
     "index.html": "/developer-portfolio/index.html",
     "static/css/main.fbbe0acc.chunk.css.map": "/developer-portfolio/static/css/main.fbbe0acc.chunk.css.map",
-    "static/js/2.756b1d5e.chunk.js.LICENSE.txt": "/developer-portfolio/static/js/2.756b1d5e.chunk.js.LICENSE.txt",
+    "static/js/2.c6bf24e5.chunk.js.LICENSE.txt": "/developer-portfolio/static/js/2.c6bf24e5.chunk.js.LICENSE.txt",
     "static/media/chore-rewards-android.95138474.png": "/developer-portfolio/static/media/chore-rewards-android.95138474.png",
     "static/media/chore-rewards-react.e3fd8307.png": "/developer-portfolio/static/media/chore-rewards-react.e3fd8307.png",
     "static/media/developer-portfolio.55972dde.png": "/developer-portfolio/static/media/developer-portfolio.55972dde.png",
@@ -20,9 +20,9 @@
     "static/media/turn-the-page.a1b9f62f.png": "/developer-portfolio/static/media/turn-the-page.a1b9f62f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1b136ae.js",
-    "static/js/2.756b1d5e.chunk.js",
+    "static/js/runtime-main.29e0abad.js",
+    "static/js/2.c6bf24e5.chunk.js",
     "static/css/main.fbbe0acc.chunk.css",
-    "static/js/main.2ce7371b.chunk.js"
+    "static/js/main.a031bef1.chunk.js"
   ]
 }
